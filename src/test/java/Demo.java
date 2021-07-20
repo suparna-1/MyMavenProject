@@ -31,9 +31,9 @@ public class Demo {
 
 	
 	@Test
-	public void tes5()
+	public void test5()
 	{
-		System.out.println("this is fivfth test");
+		System.out.println("this is fifth test");
 	}
 
 
